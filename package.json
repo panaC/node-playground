@@ -1,0 +1,19 @@
+{
+  "name": "node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "class.js",
+  "dependencies": {
+    "@types/node": "^13.11.1",
+    "crc": "^3.8.0",
+    "crc32-stream": "^3.0.1",
+    "crypto-bench": "^1.1.2",
+    "unzipper": "^0.10.5"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
