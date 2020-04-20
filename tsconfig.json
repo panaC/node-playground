@@ -9,6 +9,7 @@
             "dom",
             "dom.iterable"
           ],
-        "target": "es6"
+        "target": "es6",
+		"esModuleInterop": true
     }
 }
